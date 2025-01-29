@@ -1,2 +1,2 @@
 # MANSI-39
-practical of computer workshop
+Practicals of computer workshop
